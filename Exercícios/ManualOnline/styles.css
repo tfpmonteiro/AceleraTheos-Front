@@ -1,0 +1,57 @@
+body{
+    background: black;
+}
+
+p{
+    text-align: justify;
+    color: yellow;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#paragrafoTwo{
+    background-color: red;
+    color: white;
+}
+
+a{
+    color: rgb(247, 24, 8);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 0.8em;
+    
+}
+a:hover{
+    color: white;
+    font-size: 1.2em;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+label {
+    font-style: oblique;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.form{
+    color: white;
+}
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: greenyellow;
+    text-align: center;
+}
+
+h2 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: greenyellow;
+    text-align: center;
+}
+
+h3 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: greenyellow;
+    text-align: center;
+}
+
+li {
+    font-size: 1.0em;
+}
